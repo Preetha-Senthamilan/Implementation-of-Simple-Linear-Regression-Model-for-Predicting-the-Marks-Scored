@@ -8,7 +8,7 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Import the required libraries and read the dataframe.
+1.Import the required libraries and read the dataframe.
    
 2.Assign hours to X and scores to Y.
 
@@ -26,6 +26,7 @@ RegisterNumber:212222230110
 
 # implement a simple regression model for predicting the marks scored by the students
 import pandas as pd
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error,mean_squared_error
