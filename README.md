@@ -69,6 +69,7 @@ print("RMSE= ",rmse)
 
 ## Output:
 Dataset
+
 ![Screenshot 2023-08-24 103542](https://github.com/Preetha-Senthamilan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119390282/27b712ea-42a7-4d81-9b48-946e152225e6)
 
 Head value
