@@ -24,7 +24,7 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: PREETHA.S
 RegisterNumber:212222230110
 
-# implement a simple regression model for predicting the marks scored by the students
+#implement a simple regression model for predicting the marks scored by the students
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
